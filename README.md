@@ -33,7 +33,7 @@ aclame = /media/THING1/local/genomeIndexes/blast/ACLAME/aclame_proteins_viruses_
 vfdb = /media/THING1/local/genomeIndexes/blast/VFDB/VFs.faa
 
 [NucleotideDB]
-viral = /home/rohinis/viral_blastdb/viral.1.1.genomic.fna
+viral = /media/THING1/local/genomeIndexes/blast/viral.1.1.genomic.fna
 nt = /media/THING1/local/genomeIndexes/blast_nt/nt
 bacteria = /media/THING1/local/genomeIndexes/blast/BacterialGenomes/ncbi_bacteria.fa
 ```
