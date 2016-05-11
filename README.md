@@ -63,6 +63,9 @@ nucleotide blast db and value is path to the DB.
 
 CDD utility needs file `rpsbproc.ini`.
 
+CDD data from NCBI can be found at:
+ftp://ftp.ncbi.nih.gov/pub/mmdb/cdd
+
 ## Output
 
 Creates a tab-delimited file, where first line is a header line
